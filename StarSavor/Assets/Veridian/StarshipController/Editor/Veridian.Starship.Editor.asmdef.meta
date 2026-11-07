@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad5699b975cf372488fe0327fcf57577
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Editor/Veridian.Starship.Editor.asmdef
+  uploadId: 894644

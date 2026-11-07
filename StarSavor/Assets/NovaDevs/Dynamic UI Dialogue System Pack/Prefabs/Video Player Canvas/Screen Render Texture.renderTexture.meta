@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 902634cc61d198147a6870d83e6ef750
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340238
+  packageName: Nova Dynamic UI Dialogue System
+  packageVersion: 1.0
+  assetPath: Assets/NovaDevs/Dynamic UI Dialogue System Pack/Prefabs/Video Player Canvas/Screen Render Texture.renderTexture
+  uploadId: 833590

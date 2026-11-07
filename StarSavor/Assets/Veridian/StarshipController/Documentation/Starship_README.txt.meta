@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 02931f36174a761479a380a0bf4a7bfd
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Documentation/Starship_README.txt
+  uploadId: 894644

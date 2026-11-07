@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 60e75da2ed935624fa6185ff6ebbada4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327040
+  packageName: Atmospheric Starship Controller
+  packageVersion: 1.03
+  assetPath: Assets/Veridian/StarshipController/Editor/FactionManagerEditor.cs
+  uploadId: 894644
