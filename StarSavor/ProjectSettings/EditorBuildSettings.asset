@@ -8,9 +8,14 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/VeridianSystems/BurstLODDemo/Demo_BurstLOD_URP.unity
     guid: 657a3c634d8ef774ab80f62d004d9d64
+  - enabled: 1
+    path: Assets/Scenes/cover.unity
+    guid: eb0139f0eafabcb4288b65344d3acf37
+  - enabled: 1
+    path: Assets/Scenes/plot0.unity
+    guid: b235a51c47358fa4fb89bb1ae7e8e151
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
-  m_UseUCBPForAssetBundles: 0
