@@ -1,0 +1,5 @@
+﻿編號 ,名字,對話內容,接續編號,character,avatar
+1,阿翊,(坐上駕駛艙）好吧…來吧。又一次精準飛行吧,2,PlayerCharacter,PlayerAvatar
+2,顧絲長官,這次的目標是阿法星的偵查艦，按照計畫摧毀即可,3,npcCharacter,npcAvatar
+3,阿翊,收到,4,PlayerCharacter,PlayerAvatar
+4,阿翊,（喃喃自語）保護大家…,,,

@@ -6,7 +6,7 @@ using UnityEngine;
 //using UnityEngine.SceneManagement;
 //using TMPro;
 
-public class scene01Reader   : MonoBehaviour
+public class plot0 : MonoBehaviour
 {
     /*   
        string 是字串 list是清單 以excel舉例 {編號1	npc1	「醫生你好。」	2	0	}這樣一串等於一個清單字串 整個excel有好幾個清單字串 所以文法會是 List<List<string>>
@@ -25,7 +25,7 @@ public class scene01Reader   : MonoBehaviour
     public Dictionary<int, string[]> NovelLines = new Dictionary<int, string[]>();//public全部程式碼都可以抓到，private只能支援寫的程式碼
     void Awake()//Awake比start更早執行
     {
-        TextAsset novel = Resources.Load<TextAsset>("Novel/scene01_1"); //讀取的檔案是 TextAsset (文字的文件)
+        TextAsset novel = Resources.Load<TextAsset>("Novel/plot0"); //讀取的檔案是 TextAsset (文字的文件)
                                                                       //沒告訴 Resources 要找的東西在哪個資料夾的話，她不會找的到
                                                                       //<TextAsset>已經告知要讀取的檔案類型 所以不用打上副檔名
                                                                       //Sprite 圖片；AudioClip 音檔

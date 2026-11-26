@@ -1,0 +1,11 @@
+﻿編號 ,名字,對話內容,接續編號,character,avatar
+1,阿翊,天啊，這麼快？,2,PlayerCharacter,PlayerAvatar
+2,阿翊,（按下鎖定目標鈕）準備發射,3,PlayerCharacter,PlayerAvatar
+3,阿翊,（看到螢幕對偵查艦掃描圖，突然皺起眉頭）等等…不對…！,4,PlayerCharacter,PlayerAvatar
+4,系統,指令已確認,5,,
+5,阿翊,該死！快停下！那艘偵查艦沒有任何武器！,6,PlayerCharacter,PlayerAvatar
+6,阿翊,（透過對講機吼道）你在做什麼！快開火！,7,PlayerCharacter,PlayerAvatar
+7,阿翊,顧絲長官，可是那艘船沒裝載武器，為什麼要攻擊…？,8,PlayerCharacter,PlayerAvatar
+8,顧絲長官,這不是你要知道的事，開火就對了,9,npcCharacter,npcAvatar
+9,阿翊,……是,,PlayerCharacter,PlayerAvatar
+,,,,,

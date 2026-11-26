@@ -1,0 +1,17 @@
+﻿編號 ,名字,對話內容,接續編號,character,avatar
+1,阿翊,（阿翊一臉失落而憔悴的返回基地）,2,PlayerCharacter,PlayerAvatar
+2,顧絲長官,做得很好，你又一次完美的完成任務了,3,npcCharacter,npcAvatar
+3,阿翊,長官，我想問…剛剛在偵查艦裡的那些人是…誰,4,PlayerCharacter,PlayerAvatar
+4,顧絲長官,敵人,5,npcCharacter,npcAvatar
+5,阿翊,（提高聲量）我知道！我只是想問他們是誰！,6,PlayerCharacter,PlayerAvatar
+6,阿翊,為什麼會一大群人坐著未裝載武器的艦？,7,PlayerCharacter,PlayerAvatar
+7,阿翊,我們又為什麼要射殺他們！這跟我以往遇到的艦隊完全不同…,8,PlayerCharacter,PlayerAvatar
+8,顧絲長官,就是阿法星人,9,npcCharacter,npcAvatar
+9,阿翊,（提高聲量）告訴我長官,10,PlayerCharacter,PlayerAvatar
+10,阿翊,他們是不是有一半都是手無寸鐵的小孩、甚至是平民？,11,PlayerCharacter,PlayerAvatar
+11,顧絲長官,８Ｐ８１９，注意你的態度！！！,12,npcCharacter,npcAvatar
+12,阿翊,長官…你剛剛說什麼？,13,PlayerCharacter,PlayerAvatar
+13,顧絲長官,咳咳…沒什麼,14,npcCharacter,npcAvatar
+14,顧絲長官,一位優秀的軍人不該知道太多繁雜的細節,15,npcCharacter,npcAvatar
+15,顧絲長官,你也累了，你該去休息了,16,npcCharacter,npcAvatar
+16,阿翊,（欲言又止）…是的,,PlayerCharacter,PlayerAvatar
