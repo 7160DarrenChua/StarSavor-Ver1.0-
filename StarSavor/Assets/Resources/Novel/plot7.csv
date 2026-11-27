@@ -1,0 +1,11 @@
+﻿編號 ,名字,對話內容,接續編號,character,avatar
+1,,（隔天，阿翊看見了長官胸口中彈，倒在血泊中）,2,,
+2,阿翊,（連長官都被殺了…我一直以為這個國家是充滿善意的，是好的，\n經過這幾天的種種，我心中最後一根稻草被壓垮，理智斷線，而我…崩潰至極）,3,PlayerCharacter,PlayerAvatar
+3,阿翊,（聲音很輕，卻第一次帶著明確的決意。）,4,PlayerCharacter,PlayerAvatar
+4,阿翊,我不能再留在這裡了，這裡根本沒有我的容身之處。,5,PlayerCharacter,PlayerAvatar
+5,阿翊,如果留下來，我遲早也會變成和他們一樣的東西，會變成我自己最討厭的樣子,6,PlayerCharacter,PlayerAvatar
+6,阿翊,一個只會服從命令、等待被使用，最後再被捨棄的工具,7,PlayerCharacter,PlayerAvatar
+7,阿翊,（看向拷問室唯一的出口。）,8,PlayerCharacter,PlayerAvatar
+8,阿翊,我不要了…什麼使命、命令什麼的，我都不要了,9,PlayerCharacter,PlayerAvatar
+9,顧絲長官,（深吸一口氣。）,10,PlayerCharacter,PlayerAvatar
+10,顧絲長官,既然這個國家已經容不下我……哪怕會死，我也要冒險離開，逃走吧！,,PlayerCharacter,PlayerAvatar

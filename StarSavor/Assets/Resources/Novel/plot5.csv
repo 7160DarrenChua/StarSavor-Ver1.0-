@@ -1,0 +1,18 @@
+﻿編號 ,名字,對話內容,接續編號,character,avatar
+1,,（隔天，阿翊找上顧絲長官，向他訴說了昨晚有聲音在腦海低語的事）,2,,
+2,顧絲長官,你昨天肯定太累了,3,npcCharacter,npcAvatar
+3,阿翊,不長官，我很清楚…昨天的行動完全是錯誤的,4,PlayerCharacter,PlayerAvatar
+4,阿翊,昨天根本不該…攻擊那艘艦！如果我沒有這麼做，他們肯定…,5,PlayerCharacter,PlayerAvatar
+5,阿翊,因為這件事，我昨天被您表揚了，\n但同時我也換來了那些無辜的受難者在我腦海譴責我的聲音,6,PlayerCharacter,PlayerAvatar
+6,顧絲長官,（神情不耐）夠了！這件事已經結束了！你為何要如此執著於此？,7,npcCharacter,npcAvatar
+7,阿翊,這就是我想知道的長官！您曾和我說過我是子彈、是工具,8,PlayerCharacter,PlayerAvatar
+8,阿翊,沒必要產生感情，但我…真的很想知道我為什麼會突然自己擁有感情…,9,PlayerCharacter,PlayerAvatar
+9,阿翊,因為我，真的覺得好痛苦，\n如果沒有感情，就不會有痛苦難耐的感覺吧？,10,PlayerCharacter,PlayerAvatar
+10,顧絲長官,…別鬧了阿翊，我還有事我先…,11,npcCharacter,npcAvatar
+11,阿翊,（緊抓長官的手不放）長官，您叫我做的事我每次都有做到，從沒失誤,12,PlayerCharacter,PlayerAvatar
+12,阿翊,我也從不背叛國家，我只是希望我能任性…哪怕就一次提出要求也好，\n我想知道…我…到底是誰…或許能間接找出我為何有感情的原因,13,PlayerCharacter,PlayerAvatar
+13,顧絲長官,…………………………………………,14,npcCharacter,npcAvatar
+14,阿翊,你真的想知道？知道了真相後一切就沒這麼簡單了孩子…,15,PlayerCharacter,PlayerAvatar
+15,阿翊,無所謂，都無所謂…我身上已經背負著無數宇宙降下的原罪，我不怕,16,PlayerCharacter,PlayerAvatar
+16,顧絲長官,……,17,npcCharacter,npcAvatar
+17,顧絲長官,那你跟我來吧，我將展示給你一切的真相…,,npcCharacter,npcAvatar
