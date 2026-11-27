@@ -6,7 +6,7 @@ using UnityEngine;
 //using UnityEngine.SceneManagement;
 //using TMPro;
 
-public class plot0 : MonoBehaviour
+public class plot0Reader : MonoBehaviour
 {
     /*   
        string 是字串 list是清單 以excel舉例 {編號1	npc1	「醫生你好。」	2	0	}這樣一串等於一個清單字串 整個excel有好幾個清單字串 所以文法會是 List<List<string>>
